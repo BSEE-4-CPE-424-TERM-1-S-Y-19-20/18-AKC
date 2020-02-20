@@ -1,0 +1,1 @@
+This is an example on how to use lcd 16 by 2 I2C
